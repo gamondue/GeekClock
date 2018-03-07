@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qualcosa
+=======
+Ciaone
+>>>>>>> 860a1a8f51d99e9b2af29e6f89cbabdaff13f195
