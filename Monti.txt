@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 qualcosa
 =======
 Ciaone
 >>>>>>> 860a1a8f51d99e9b2af29e6f89cbabdaff13f195
+=======
+qualcOOOOOOOOOOOOOOOOOOOOOOOsa
+=======
+Ciaone
+>>>>>>> bfe2c616e74ef81d8a1f8483f7b85dac852bdbc0
+>>>>>>> cc7db4c314ce45a403966e34bfed1a642a5c0044
