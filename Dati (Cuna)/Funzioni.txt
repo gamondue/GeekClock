@@ -1,0 +1,18 @@
+Cambiare l'orario dell'orologio.
+Utilizzo di specifici pulsanti per modificare l'orario.
+Utente che utilizza l'orologio.
+Utente0 che utilizza l'orologio.
+Uscita dall'interfaccia del cambio dell'ora per entrare nel Menù Principale.
+L'interfaccia dell'utente per utilizzare l'orologio.
+Non può essere utilizzata se altre funzioni sono attive.
+Non può essere utilizzata se si sta già utilizzando l'orologio.
+Termine del caso d'uso quando l'utente ha concluso il cambiamento d'orario.
+Impostare l'orario con delle rotelle analogiche.
+Riavvio dell'orologio in presenza di eventuali errori.
+Blocco con finestra di dialogo con scelta se riavviare o continuare l'utilizzo dell'orologio in presenza di uno specifico errore.
+L'utente deve avere un prospetto generale del funzionamento dell'orologio.
+null
+Dalle sei alle dodici ore.
+Non si va incontro ad alcun rischio.
+null
+null
