@@ -1,0 +1,4 @@
+Si esegue la combinazione di tasti 1,2,2 per entrare nell'edit dell'ora. (Primo bottone = 0, secondo bottone = 1) Si inserisce l'ora in binairo dato il valore attribuito ai bottoni. 
+Per salvare si esegue la combinazione 1,1,2 e  poi si entra nell'edit dei minuti.
+Rieseguita la combinazione precedente (salva) si entra nell'edit se mattino o pomeriggio (AM o PM). Il secondo bottone (1) equivale a PM, mentre il primo (0) a AM.
+Eseguire la combinazione salva per terminare l'edit dell'orario.
