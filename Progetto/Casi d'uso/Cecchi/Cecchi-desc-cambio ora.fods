@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>simone.rega</meta:initial-creator><dc:creator>simone.rega</dc:creator><meta:creation-date>2018-03-28T06:58:51</meta:creation-date><dc:date>2018-03-28T07:48:45</dc:date><meta:generator>LibreOffice/5.4.0.3$Windows_X86_64 LibreOffice_project/7556cbc6811c9d992f4064ab9287069087d7f62c</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="24" meta:object-count="0"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="WorkbookGuid" meta:value-type="string">7569438c-edbf-40b4-bc79-c2645897d2ae</meta:user-defined></office:meta>
+ <office:meta><meta:initial-creator>giacomo.cecchi</meta:initial-creator><dc:creator>giacomo.cecchi</dc:creator><meta:creation-date>2018-03-28T07:10:30</meta:creation-date><dc:date>2018-03-28T07:48:14</dc:date><meta:generator>LibreOffice/5.4.0.3$Windows_X86_64 LibreOffice_project/7556cbc6811c9d992f4064ab9287069087d7f62c</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="30" meta:object-count="0"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">12094</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21854</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">42195</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">11138</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Foglio1">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">25</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -22,10 +22,10 @@
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionTop" config:type="int">1</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">115</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -68,9 +68,9 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Foglio1</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1856</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1840</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-     <config:config-item config:name="ZoomValue" config:type="int">115</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
@@ -452,49 +452,32 @@
   <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
    <style:table-cell-properties fo:background-color="#dddddd"/>
   </style:style>
+  <style:style style:name="Excel_20_Built-in_20_Note" style:display-name="Excel Built-in Note" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #b2b2b2"/>
+  </style:style>
+  <style:style style:name="Excel_20_Built-in_20_Output" style:display-name="Excel Built-in Output" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#f2f2f2" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #3f3f3f"/>
+   <style:text-properties fo:color="#3f3f3f" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="swiss" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-family-complex="Calibri" style:font-family-generic-complex="swiss" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="39.19mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="74.21mm"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="81.76mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="347.75mm"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="17mm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="5.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="12.17mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="8.2mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="6.61mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="27.52mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="7.41mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="7.94mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="7.67mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro7" style:family="table-row">
-   <style:table-row-properties style:row-height="92.6mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro8" style:family="table-row">
-   <style:table-row-properties style:row-height="9.26mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="10.58mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro10" style:family="table-row">
-   <style:table-row-properties style:row-height="8.47mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro11" style:family="table-row">
-   <style:table-row-properties style:row-height="10.05mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="5.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_Foglio1">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -505,54 +488,30 @@
   <style:style style:name="ta3" style:family="table" style:master-page-name="PageStyle_5f_Foglio3">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border-left="none" fo:border-right="0.74pt solid #000000" style:rotation-align="none" fo:border-top="none"/>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Excel_20_Built-in_20_Note" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="none" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="none" style:direction="ltr" fo:border-right="0.74pt solid #b2b2b2" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="none" style:vertical-align="top" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#ff0000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="22pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="22pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="22pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#31859c" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border-left="none" fo:border-right="0.74pt solid #000000" style:rotation-align="none" fo:border-top="0.74pt solid #000000"/>
-   <style:text-properties fo:color="#ffffff" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#95b3d7" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="0.74pt solid #000000" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="none" style:vertical-align="bottom" loext:vertical-justify="auto"/>
+   <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="none" style:direction="ltr" fo:border-right="0.74pt solid #000000" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
-   <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="none" style:direction="ltr" fo:border-right="0.74pt solid #000000" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
-   <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="none" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="none" style:direction="ltr" fo:border-right="0.74pt solid #000000" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
-   <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="wrap" fo:border="none" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
-   <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border-left="0.74pt solid #000000" fo:border-right="none" style:rotation-align="none" fo:border-top="none"/>
-  </style:style>
-  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" fo:background-color="#31859c" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border-left="0.74pt solid #000000" fo:border-right="none" style:rotation-align="none" fo:border-top="0.74pt solid #000000"/>
-   <style:text-properties fo:color="#ffffff" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
+   <style:table-cell-properties fo:background-color="#95b3d7" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Excel_20_Built-in_20_Output" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #3f3f3f" style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #3f3f3f" style:direction="ltr" fo:border-right="0.74pt solid #3f3f3f" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="none" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#3f3f3f" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="0.74pt solid #000000" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
-   <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:border-bottom="none" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #000000" style:direction="ltr" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="0.74pt solid #000000" style:vertical-align="middle" loext:vertical-justify="auto"/>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Excel_20_Built-in_20_Output" style:data-style-name="N0">
+   <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="bottom" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0mm" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="none" style:rotation-align="none"/>
+   <style:text-properties fo:color="#3f3f3f" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:first-page-number="continue" style:writing-mode="lr-tb"/>
@@ -612,19 +571,13 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-03-28">00/00/0000</text:date>, <text:time>00.00.00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-04-11">00/00/0000</text:date>, <text:time>00.00.00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
    <style:footer>
     <text:p>Pagina <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
    </style:footer>
-   <style:footer-left style:display="false"/>
-  </style:master-page>
-  <style:master-page style:name="PageStyle_5f_Foglio3" style:display-name="PageStyle_Foglio3" style:page-layout-name="pm3">
-   <style:header style:display="false"/>
-   <style:header-left style:display="false"/>
-   <style:footer style:display="false"/>
    <style:footer-left style:display="false"/>
   </style:master-page>
   <style:master-page style:name="PageStyle_5f_Foglio2" style:display-name="PageStyle_Foglio2" style:page-layout-name="pm3">
@@ -634,6 +587,12 @@
    <style:footer-left style:display="false"/>
   </style:master-page>
   <style:master-page style:name="PageStyle_5f_Foglio1" style:display-name="PageStyle_Foglio1" style:page-layout-name="pm4">
+   <style:header style:display="false"/>
+   <style:header-left style:display="false"/>
+   <style:footer style:display="false"/>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="PageStyle_5f_Foglio3" style:display-name="PageStyle_Foglio3" style:page-layout-name="pm3">
    <style:header style:display="false"/>
    <style:header-left style:display="false"/>
    <style:footer style:display="false"/>
@@ -650,159 +609,172 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:number-columns-repeated="1022" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1" table:visibility="collapse">
-     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>Colonna1</text:p>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Cambiare l&apos;ora </text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
-      <text:p>Colonna2</text:p>
-     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce1"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>Nome del Caso d&apos;Uso</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>Descrizione</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Cambio ora</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Descrizione</text:p>
+      <text:p>Scopo e campo applicazione</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Utilizzare l&apos;interfaccia dell&apos;orologio</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Scopo</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string"><text:p>Si vuole descrivere come verrà utilizzata l&apos;interfaccia dell&apos;orologio, </text:p><text:p>in particolare come utiliazzare i bottoni per cambiare ora, possibile </text:p><text:p>cambio di modalità e/o funzionalità aggiuntive</text:p>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Usare dei bottoni del nostro orologio per cambiare l&apos;ora</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Attori</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Coloro che utilizzeranno l&apos;orologio</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Attore Primario</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Possessore dell&apos;orologio</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro6">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Use Case d&apos;Extend</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Implementazione di funzionalità aggiuntive</text:p>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Coloro che cambieranno l&apos;ora</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Scenario Principale</text:p>
+      <text:p>Attore primario</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>Impostare l&apos;orologio</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro7">
-     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string"><text:p>1. Entry Condition</text:p><text:p/><text:p>2. Flusso di Eventi</text:p><text:p/><text:p>3. Exit Condition</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string"><text:p>1.Questo caso d&apos;uso si inizia quando l&apos;utente vuole utilizzare l&apos;orologio binario la prima volta</text:p><text:p>o se vuole modificarne l&apos;orario e/o funzionalità</text:p><text:p>2. Con due bottoni si possono impostare ora e minuti: un bottone al click entra nella modifica dell&apos;orario, l&apos;altro cambia l&apos;ora, per tornare allo stato iniziare si preme lo stesso bottone; un altro bottone invece entra nella modifica dei minuti, e l&apos;altro invece cambia i minuti, per tornare allo stato di prima si preme lo stesso bottone. Per altre funzionalità si potrebbero sfruttare la pressione prolungata o il doppio click dello stesso bottone.</text:p><text:p>3. Questo caso d&apos;uso termina quando l&apos;utente ha impostato l&apos;ora e quando l&apos;orologio è allo stato normale, ovvero quando non si è in una condizione di modifica.</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Scenari Alternativi</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro9">
-     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string"><text:p>1. Flussi Alternativi</text:p><text:p>2. Eccezioni</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro10">
-     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
-      <text:p>Requisiti Speciali</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Extension Points</text:p>
+      <text:p>Coloro che cambieranno l&apos;ora</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro11">
-     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
-      <text:p>Frequenza Stimata di utlizzo</text:p>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Use case d&apos;extend</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Criticità</text:p>
+      <text:p>Uscire dal cambio dell&apos;ora e andare nel menu principale</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="8">
-     <table:table-cell table:style-name="ce6"/>
-     <table:table-cell table:style-name="ce13"/>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>1-Entry condition</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>questo caso d&apos;uso inizia quando l&apos;utente (attore ptrincipale vuole cambiare l&apos;ora</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048552">
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>2- flusso di eventi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Ci saranno dei bottoni con cui l&apos;utente avrà la possibilità di impostare l&apos;ora</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>3- Exti condition</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>questo caso d&apos;uso termina quando l&apos;utente premerà un certo bottone/avrà finito di settare l&apos;ora</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Scenari alternativi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>si potrebbe impostare l&apos;ora con delle rotelle (e non con dei bottoni)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>1-flussi alternativi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>se ci sono degli errori si può riavviare l&apos;orologio</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>2-Eccezioi:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>se ci sono degli errori si può riavviare l&apos;orologio</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Requisiti speciali</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>l&apos;utente deve essere in grado di impostare l&apos;ora</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Extetion points:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5"/>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Frequenza stimata di utilizzo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>prima bisognerebbe fare in modo che gli output delle ore siano perfettamente corretti poi si potrà pensare di fare dei bottoni/rotelle per il cambio dell&apos;ora</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Critica</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Non ci sono rischi</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3" table:number-rows-repeated="1048559">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Foglio2" table:style-name="ta2">
     <table:table-column table:style-name="co3" table:number-columns-repeated="1024" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048575">
+    <table:table-row table:style-name="ro3" table:number-rows-repeated="1048575">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Foglio3" table:style-name="ta3">
     <table:table-column table:style-name="co3" table:number-columns-repeated="1024" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048575">
+    <table:table-row table:style-name="ro3" table:number-rows-repeated="1048575">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
-   <table:database-ranges>
-    <table:database-range table:name="Tabella1" table:target-range-address="Foglio1.A1:Foglio1.B15" table:display-filter-buttons="true"/>
-   </table:database-ranges>
   </office:spreadsheet>
  </office:body>
 </office:document>

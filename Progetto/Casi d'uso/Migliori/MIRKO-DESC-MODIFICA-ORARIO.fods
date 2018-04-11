@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2018-03-28T09:22:49.638000000</meta:creation-date><dc:date>2018-03-28T09:41:35.031000000</dc:date><meta:editing-duration>PT18M50S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="26" meta:object-count="0"/><meta:generator>LibreOffice/5.4.0.3$Windows_X86_64 LibreOffice_project/7556cbc6811c9d992f4064ab9287069087d7f62c</meta:generator></office:meta>
+ <office:meta><meta:creation-date>2018-03-28T08:57:47.595000000</meta:creation-date><dc:date>2018-03-28T09:44:22.293000000</dc:date><meta:editing-duration>PT8M30S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:generator>LibreOffice/5.4.0.3$Windows_X86_64 LibreOffice_project/7556cbc6811c9d992f4064ab9287069087d7f62c</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="37" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Foglio1">
-       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">19</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -25,7 +25,7 @@
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-       <config:config-item config:name="ZoomValue" config:type="int">130</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">78</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -34,7 +34,7 @@
      <config:config-item config:name="ActiveTable" config:type="string">Foglio1</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1856</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-     <config:config-item config:name="ZoomValue" config:type="int">130</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">78</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
@@ -77,8 +77,8 @@
    <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="PrinterName" config:type="string">Foxit Reader PDF Printer</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">2QX+/0ZveGl0IFJlYWRlciBQREYgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARm94aXQgUmVhZGVyIFBERiBQcmludGVyIERyaXZlcgAWAAEA+gQAAAAAAAAEAAhSAAAEdAAAM1ROVwAAAAAKAEYAbwB4AGkAdAAgAFIAZQBhAGQAZQByACAAUABEAEYAIABQAHIAaQBuAHQAZQByAAAAAAAAAAAAAAAAAAAAAAABBAEE3AAUBF//gQcBAAkAmgs0CGQAAQAHAFgCAgABAFgCAgAAAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABDADoAXABVAHMAZQByAHMAXABNAEkAUgBLAE8ALgBNAEkARwBMAEkATwBSAEkAXABBAHAAcABEAGEAdABhAFwAUgBvAGEAbQBpAG4AZwBcAEYAbwB4AGkAdAAgAFMAbwBmAHQAdwBhAHIAZQBcAEYAbwB4AGkAdAAgAFAARABGACAAQwByAGUAYQB0AG8AcgBcAEYAbwB4AGkAdAAgAFIAZQBhAGQAZQByACAAUABEAEYAIABQAHIAaQBuAHQAZQByAFwAMQA1ADIAMgAyADIAMgAzADgAOABfADcAOQA2AF8AXwBmAG8AeABpAHQAdABlAG0AcAAuAHgAbQBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
@@ -86,11 +86,14 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -179,16 +182,19 @@
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+  </style:style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
   </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:page-layout-properties fo:margin-top="10mm" fo:margin-bottom="10mm" fo:margin-left="10mm" fo:margin-right="10mm" style:writing-mode="lr-tb"/>
    <style:header-style>
     <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
    </style:header-style>
@@ -216,7 +222,7 @@
     <text:p><text:sheet-name>???</text:sheet-name></text:p>
    </style:header>
    <style:header-left style:display="false"/>
-   <style:footer>
+   <style:footer style:display="false">
     <text:p>Pagina <text:page-number>1</text:page-number></text:p>
    </style:footer>
    <style:footer-left style:display="false"/>
@@ -227,7 +233,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-03-28">00/00/0000</text:date>, <text:time>00.00.00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-03-28">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:33:09.008000000">00.00.00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -244,17 +250,17 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
-      <text:p>Setting ora</text:p>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Titolo del caso d’uso</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce2"/>
+     <table:covered-table-cell table:style-name="ce3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Descrizione</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>settaggio dell’ora tramite bottoni</text:p>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>E’ <text:s/>DOMANDATO <text:s/>MODIFICARE <text:s/>L’ <text:s/>ORARIO <text:s/>CON <text:s/>3 <text:s/>PULSANTI</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -262,7 +268,7 @@
       <text:p>Scopo e campo di applicazione</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cambiare l’ora</text:p>
+      <text:p>E’ <text:s/>UTILIZZATO <text:s/>PER <text:s/>L’ <text:s/>OROLOGIO <text:s/>BINARIO</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -270,7 +276,7 @@
       <text:p>Attori</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>quello che possiede l’orologio</text:p>
+      <text:p>UN <text:s/>UMANO <text:s/>E <text:s/>3 <text:s/>PULSANTI</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -278,21 +284,23 @@
       <text:p>Attore primario </text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>quello che possiede l’orologio</text:p>
+      <text:p>UMANO <text:s/>UTILIZZATORE <text:s/>DELL’ <text:s/>OROLOGIO</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Use case d’extend</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASSENTE</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Scenario principale</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cambio orario</text:p>
+      <text:p>OROLOGIO <text:s/>BINARIO</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -300,76 +308,96 @@
       <text:p>1- Entry condition</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>pressione di un bottone apposito</text:p>
+      <text:p>L’ <text:s/>UMANO <text:s/>UTILIZZA <text:s/>I <text:s/>PULSANTI <text:s/>+ <text:s/>O <text:s/>-</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2 – Flusso di eventi</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>L’ <text:s/>UMANO <text:s/>MODIFICA <text:s/>L’ <text:s/>ORARIO <text:s/>DELL’ <text:s/>OROLOGIO</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>3 – Exit condition</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>pressione di un bottone apposito</text:p>
+      <text:p>L’ <text:s/>UMANO <text:s/>UTILIZZA <text:s/>IL <text:s/>PULSANTE <text:s/>DEL <text:s/>TERMINE</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Scenari alternativi</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>OROLOGIO</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>1 – Flussi altenativi: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASSENTI</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2 – Eccezioni: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>L’ <text:s/>OROLOGIO <text:s/>E’ <text:s/>SCARICO <text:s/>E <text:s/>L’ <text:s/>ORARIO <text:s/>NON <text:s/>PUO’ <text:s/>ESSERE <text:s/>MODIFICATO</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Requisiti speciali: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>OROLOGIO <text:s/>BINARIO</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Extention points: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASSENTE</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Frequenza stimata di utilizzo: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2 <text:s/>IN <text:s/>UN <text:s/>MOTO <text:s/>DI <text:s/>RIVOLUZIONE <text:s/>TERRESTRE</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Criticità: </text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASSENTE</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Specializza il caso d’uso (opzionale)</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASSENTE</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Generalizza il caso d’uso (opzionale)</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>QUALSIASI <text:s/>OROLOGIO</text:p>
+     </table:table-cell>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
